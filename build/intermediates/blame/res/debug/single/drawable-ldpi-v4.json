@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Tim Marquart\\Desktop\\Spring 2017\\PDD\\myscioapplication\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\login_error_icon.png",
+        "source": "C:\\Users\\Tim Marquart\\Desktop\\Spring 2017\\PDD\\myscioapplication\\build\\intermediates\\exploded-aar\\SCiOSDK_Android\\res\\drawable-ldpi-v4\\login_error_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Tim Marquart\\Desktop\\Spring 2017\\PDD\\myscioapplication\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\_alert_dots.png",
+        "source": "C:\\Users\\Tim Marquart\\Desktop\\Spring 2017\\PDD\\myscioapplication\\build\\intermediates\\exploded-aar\\SCiOSDK_Android\\res\\drawable-ldpi-v4\\_alert_dots.png"
+    },
+    {
+        "merged": "C:\\Users\\Tim Marquart\\Desktop\\Spring 2017\\PDD\\myscioapplication\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\scio.png",
+        "source": "C:\\Users\\Tim Marquart\\Desktop\\Spring 2017\\PDD\\myscioapplication\\build\\intermediates\\exploded-aar\\SCiOSDK_Android\\res\\drawable-ldpi-v4\\scio.png"
+    },
+    {
+        "merged": "C:\\Users\\Tim Marquart\\Desktop\\Spring 2017\\PDD\\myscioapplication\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\scio_logo.png",
+        "source": "C:\\Users\\Tim Marquart\\Desktop\\Spring 2017\\PDD\\myscioapplication\\build\\intermediates\\exploded-aar\\SCiOSDK_Android\\res\\drawable-ldpi-v4\\scio_logo.png"
+    }
+]

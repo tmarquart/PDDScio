@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Tim Marquart\\Desktop\\Spring 2017\\PDD\\myscioapplication\\build\\intermediates\\res\\merged\\debug\\menu\\menu_scan.xml",
+        "source": "C:\\Users\\Tim Marquart\\Desktop\\Spring 2017\\PDD\\myscioapplication\\src\\main\\res\\menu\\menu_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tim Marquart\\Desktop\\Spring 2017\\PDD\\myscioapplication\\build\\intermediates\\res\\merged\\debug\\menu\\menu_collection.xml",
+        "source": "C:\\Users\\Tim Marquart\\Desktop\\Spring 2017\\PDD\\myscioapplication\\src\\main\\res\\menu\\menu_collection.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tim Marquart\\Desktop\\Spring 2017\\PDD\\myscioapplication\\build\\intermediates\\res\\merged\\debug\\menu\\model_selector_menu.xml",
+        "source": "C:\\Users\\Tim Marquart\\Desktop\\Spring 2017\\PDD\\myscioapplication\\src\\main\\res\\menu\\model_selector_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tim Marquart\\Desktop\\Spring 2017\\PDD\\myscioapplication\\build\\intermediates\\res\\merged\\debug\\menu\\menu_discover.xml",
+        "source": "C:\\Users\\Tim Marquart\\Desktop\\Spring 2017\\PDD\\myscioapplication\\src\\main\\res\\menu\\menu_discover.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tim Marquart\\Desktop\\Spring 2017\\PDD\\myscioapplication\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\Tim Marquart\\Desktop\\Spring 2017\\PDD\\myscioapplication\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]
